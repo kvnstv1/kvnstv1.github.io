@@ -22,18 +22,19 @@ theme = 'hugo-sustain'
 
 ## Main Menu
 [[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
-[[menu.main]]
   name = "projects"
   identifier = "projects"
-  weight = 200
+  weight = 100
   url = "/projects/"
+[menu.main]
+  name = "Employment"
+  weight = 200
+  identifier = "Empoyment"
+  url = "/employment/"
 [[menu.main]]
   name = "resume"
   identifier = "resume"
   weight = 300
   url = "/resume/"
+
 

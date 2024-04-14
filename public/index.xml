@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/projects/</guid>
       <description>I&amp;rsquo;m currently working through phase 1 of Microsoft Student Accelerator 2024&amp;rsquo;s Data Science Track. This includes topics like Python, AI on Azure, learning and classification models and power BI. My current progress is shown on my Github profile.&#xA;I am working on an image editing app with a team of classmates for a class project. I wrote a couple of key features like the median filter, vertical and hoprizontal image flipping and incorporated multilingual support.</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/employment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/employment/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
