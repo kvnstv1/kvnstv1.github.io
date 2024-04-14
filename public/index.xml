@@ -9,18 +9,18 @@
     <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Employment</title>
+      <link>http://localhost:1313/employment/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/employment/</guid>
+      <description>Present: Demonstrator, School of Computing, University of Otago, Dunedin, NZ February 2024 - Present&#xA;I tutor first-year students in introductory concepts in programming in Java. I coordinate with a dedicated team to ensure students get timely and tailored help. I also administer tests and quizzes.&#xA;Data annotator, OmniEye, Dunedin, NZ February 2024 - Present&#xA;I screen captured videos of livestock from dairy farms around New Zealand with a small team of annotators to ensure consistency in the training sets used for the company&amp;rsquo;s machine learning algorithm.</description>
+    </item>
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
       <description>I&amp;rsquo;m currently working through phase 1 of Microsoft Student Accelerator 2024&amp;rsquo;s Data Science Track. This includes topics like Python, AI on Azure, learning and classification models and power BI. My current progress is shown on my Github profile.&#xA;I am working on an image editing app with a team of classmates for a class project. I wrote a couple of key features like the median filter, vertical and hoprizontal image flipping and incorporated multilingual support.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/employment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/employment/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
