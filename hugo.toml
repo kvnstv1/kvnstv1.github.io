@@ -34,7 +34,7 @@ theme = 'hugo-sustain'
 [[menu.main]]
   name = "Resume"
   identifier = "resume"
-  weight = 300
+  weight = 250
   url = "/CV.pdf"
 [[menu.main]]
   name = "About"
