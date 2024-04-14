@@ -1,0 +1,39 @@
+baseURL = 'https:kvnstv1.github.io'
+languageCode = 'en-us'
+title = 'kvnstv1 personal site'
+theme = 'hugo-sustain'
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "img/profileResized.jpg"
+  author = "Kevin Steve Sathyanath"
+  description = "Student of Computer Science"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "kvnstv1"
+  Email         = "satke569@student.otago.ac.nz"
+  LinkedIn      = "satke569"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/"
+
