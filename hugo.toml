@@ -1,4 +1,4 @@
-baseURL = 'https:kvnstv1.github.io'
+baseURL = 'https://kvnstv1.github.io'
 languageCode = 'en-us'
 title = 'kvnstv1 personal site'
 theme = 'hugo-sustain'
