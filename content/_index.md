@@ -16,6 +16,6 @@ Contact me by [email].
 
 
 [Github]: https://github.com/kvnstv1
-[projects]: /Projects/_index.md
+[projects]: /projects
 [resume]: https://demo.nurlan.co/hugo-vitae/
 [email]: satke569@student.otago.ac.nz
