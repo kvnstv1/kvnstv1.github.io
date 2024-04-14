@@ -19,3 +19,4 @@ Contact me by [email].
 [projects]: /projects
 [resume]: /CV.pdf
 [email]: satke569@student.otago.ac.nz
+[About]: /About
