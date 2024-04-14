@@ -39,7 +39,7 @@ theme = 'hugo-sustain'
 [[menu.main]]
   name = "About"
   identifier = "About"
-  weight = 400
+  weight = 300
   url = "/About/"
 
 [markup]
