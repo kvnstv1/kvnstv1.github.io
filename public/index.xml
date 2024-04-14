@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About me I am currently working towards a Bachelor of Science in Computer Science at the University of Otago. Apart from my coursework in data Structures and Algorithms, Information Systems and Software Engineering, I am also learning to program in python with an eye to studying machine learning. In the long run, I am interested in studying cellular automata and machine learning.&#xA;I am a polyglot who has lived in 5 countries.</description>
+    </item>
+    <item>
       <title>Employment</title>
       <link>http://localhost:1313/employment/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
