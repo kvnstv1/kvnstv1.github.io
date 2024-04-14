@@ -35,7 +35,7 @@ theme = 'hugo-sustain'
   name = "Resume"
   identifier = "resume"
   weight = 300
-  url = "static/CV.pdf"
+  url = "https://kvnstv1.github.io/static/CV.pdf"
 [[menu.main]]
   name = "About"
   identifier = "About"
