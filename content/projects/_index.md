@@ -3,7 +3,7 @@
 
 I'm currently working through [phase 1] of Microsoft Student Accelerator 2024's Data Science Track. This includes Python, AI on Azure, learning and classification models and power BI. 
 
-My class project 
+I am working on an image editing app with a team of classmates for a class project. I wrote a couple of key features like the median filter and image flipping. I also worked 
 
 
 
