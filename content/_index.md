@@ -9,7 +9,7 @@ I graduate in December 2025. I'm looking for a summer internship.
 
 Please check out my [projects] page to see what I am currently working on.
 
-My resume is available here [resume].
+My [resume] is available for perusal.
 
 Contact me by [email].
 
@@ -17,5 +17,5 @@ Contact me by [email].
 
 [Github]: https://github.com/kvnstv1
 [projects]: /projects
-[resume]: https://demo.nurlan.co/hugo-vitae/
+[resume]: /CV.pdf
 [email]: satke569@student.otago.ac.nz

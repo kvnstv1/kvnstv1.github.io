@@ -2,15 +2,24 @@
 title = 'Projects'
 date = 2024-04-12
 +++
-
+#### <u>MSA NZ Phase-1 Data Science Track</u>
 I'm currently working through [phase 1] of Microsoft Student Accelerator 2024's Data Science Track. This includes topics like Python, AI on Azure, learning and classification models and power BI. My current progress is shown on my [Github] profile.
 
+#### <u>Image editor app</u>
 I am working on an image editing app with a team of classmates for a class project. I wrote a couple of key features like the median filter, vertical and hoprizontal image flipping and incorporated multilingual support. 
 
+#### <u>Leetcode</u>
 I am challenging myself to solve one Leetcode questions a day to sharpen my programming skills and to learn better algorithms to solve common problems. My progress is shown on my [leetcode] profile.
 
+#### <u>MS Azure certification</u>
 Finally, I am studying to take the Microsoft Azure [certification exam] using Microsoft Learn.
 
+#### A<u>lready achieved:</u>
+Google Data Analytics professional certificate
+
+IBM Data Science professional certificate
+
+#### <u>Overall 2024 goal:</u>
 My current goal is to learn more about Data science and AI to become a more well-rounded candidate for summer internships. 
 
 
