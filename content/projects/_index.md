@@ -1,6 +1,5 @@
 +++
 title = 'Projects'
-date = 2024-04-12
 +++
 
 I'm currently working through [phase 1] of Microsoft Student Accelerator 2024's Data Science Track. This includes Python, AI on Azure, learning and classification models and power BI. 
